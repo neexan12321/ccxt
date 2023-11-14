@@ -396,7 +396,7 @@ console.log(version);
 const exchange = new binance();
 const ticker = await exchange.fetchTicker('BTC/USDT');
 console.log(ticker);
-```
+
 
 ### Python
 
